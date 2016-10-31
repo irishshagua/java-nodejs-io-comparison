@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Landing Page,2000,35,9,156,21.71,0.00%,291.5,63.20,222.0
+Get All Pubs,2000,35,11,162,19.85,0.00%,292.5,217.97,763.0
+Get Single Pub,2000,36,11,135,19.85,0.00%,294.4,91.87,319.5
+TOTAL,6000,35,9,162,20.49,0.00%,870.3,369.58,434.8
