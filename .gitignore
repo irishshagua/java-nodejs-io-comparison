@@ -1,0 +1,6 @@
+# Ignore Node shite 
+node_modules/
+
+# Ignore Java shite
+target/
+
